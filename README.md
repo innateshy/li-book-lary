@@ -101,6 +101,6 @@ mybatis
 ## DB 구성
 
 ## 시연 영상
-https://youtu.be/uZCwBuRzKks
-https://youtu.be/rCYF_XaGHgc
-https://youtu.be/K3tcUhVar14
+https://youtu.be/uZCwBuRzKks<br>
+https://youtu.be/rCYF_XaGHgc<br>
+https://youtu.be/K3tcUhVar14<br>
